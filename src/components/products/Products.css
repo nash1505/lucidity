@@ -1,0 +1,13 @@
+.modal-modal-header {
+  display: flex;
+  justify-content: space-between;
+}
+.modal-modal-header div:nth-child(2) {
+  border: 1px solid;
+  padding: 8px;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.table-container {
+  margin-top: 20px;
+}
